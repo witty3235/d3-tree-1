@@ -1,0 +1,28 @@
+{
+  "name": "d3_multi_root_tree",
+  "version": "0.0.1",
+  "authors": [
+    "klausw <klauswulf1981@hotmail.com>"
+  ],
+  "description": "D3 data visualization (tree with multiple root)",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "d3",
+    "tree"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.16"
+  },
+  "devDependencies": {}
+}
